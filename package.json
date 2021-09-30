@@ -1,0 +1,12 @@
+{
+  "name": "4fjb9",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "/Main.js",
+  "engines": {
+    "node": "16.6.0"
+  },
+  "dependencies": {
+    "discord.js": "13.1.0"
+  }
+}
